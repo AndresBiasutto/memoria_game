@@ -32,3 +32,10 @@
     height: 100%;
     width: 100%;
 }
+@media only screen and (max-width: 767px) {
+    .card{
+        height: 130px;
+        width: 110px;
+    }
+    
+    }

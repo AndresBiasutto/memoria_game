@@ -35,3 +35,13 @@
   height: 40px;
   font-family: "Press Start 2P", system-ui;
 }
+@media only screen and (max-width: 767px) {
+  .sidebar{
+      flex-direction: row;
+      width: 100%;
+      height: 100px;
+  }
+  .pressStart{
+    font-size: 20px;
+  }
+  }
